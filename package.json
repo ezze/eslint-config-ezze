@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ezze/eslint-config-ezze/issues"
   },
-  "homepage": "https://github.com/ezze/eslint-config-ezze#readme"
+  "homepage": "https://github.com/ezze/eslint-config-ezze#readme",
+  "peerDependencies": {
+    "eslint": "^3.0.0"
+  }
 }
