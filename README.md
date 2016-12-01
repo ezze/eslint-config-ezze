@@ -4,7 +4,7 @@ Configuration for [ESLint](http://eslint.org/).
 
 ## Installation
 
-    npm install eslint-config-ezze --save-dev
+    npm install eslint eslint-config-ezze --save-dev
     
 ## Usage
 
