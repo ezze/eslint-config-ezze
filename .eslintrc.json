@@ -8,6 +8,7 @@
     "es6": true
   },
   "rules": {
+    "brace-style": ["error", "stroustrup"],
     "camelcase": "error",
     "curly": "error",
     "eol-last": ["error", "always"],
@@ -23,6 +24,7 @@
     "no-console": "off",
     "no-undef": "error",
     "keyword-spacing": "error",
+    "prefer-const": "error",
     "quotes": ["error", "single"],
     "space-before-function-paren": ["error", "never"]
   }
