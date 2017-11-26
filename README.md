@@ -1,5 +1,7 @@
 # eslint-config-ezze
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ezze/eslint-config-ezze.svg)](https://greenkeeper.io/)
+
 Configuration for [ESLint](http://eslint.org/).
 
 ## Installation
