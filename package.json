@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ezze/eslint-config-ezze#readme",
   "peerDependencies": {
-    "eslint": "^4.0.0"
+    "eslint": "^5.0.0"
   }
 }
