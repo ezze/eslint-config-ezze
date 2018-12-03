@@ -13,7 +13,7 @@
     "curly": "error",
     "eol-last": ["error", "always"],
     "eqeqeq": "error",
-    "indent": ["error", 4, {
+    "indent": ["error", 2, {
       "SwitchCase": 1
     }],
     "max-depth": ["error", 4],
