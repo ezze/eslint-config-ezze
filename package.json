@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ezze",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "description": "ESLint configuration",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ezze/eslint-config-ezze#readme",
   "peerDependencies": {
-    "eslint": "^6.0.0"
+    "eslint": "^7.0.0"
   }
 }
