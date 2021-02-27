@@ -29,7 +29,8 @@
     "eqeqeq": "error",
     "func-call-spacing": ["error", "never"],
     "indent": ["error", 2, {
-      "SwitchCase": 1
+      "SwitchCase": 1,
+      "ignoredNodes": ["TemplateLiteral"]
     }],
     "key-spacing": ["error", {
       "mode": "strict",
